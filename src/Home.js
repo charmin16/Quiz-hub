@@ -3,7 +3,7 @@ import {NavLink} from 'react-router-dom'
 const Home = () => {
 
   return (
-    <div className='w-[90%] md:w-[50%] mx-auto pt-12 text-center '>
+    <div className='w-[90%] md:w-[50%] mx-auto pt-12 text-center text-white'>
       <div className='sub-wrapper'>  
         <h1 className='text-3xl md:text-4xl font-serif font-bold tracking-wider mb-20'>Welcome to QuizHub</h1>
         {/* <p id='isolated' className='text-2xl md:text-3xl mb-8'>Please choose any one of the following for your quiz</p> */}
