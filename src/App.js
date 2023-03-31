@@ -11,7 +11,7 @@ import Africa from './quizPages/Africa';
 
 function App() {
   return (
-    <div className="App bg-gray-600 w-screen h-[200vh] text-black ">
+    <div className="App bg-gray-800 w-screen h-[200vh] text-black ">
       {/* <h1 className="text-3xl text-black">QUIZ</h1> */}
       <Router>
         <Routes>
