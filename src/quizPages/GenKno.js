@@ -96,7 +96,7 @@ const GenKno = () => {
 
   return (
    
-    <div className='font-serif w-[100%] pb-6 md:w-[50%] mx-auto pt-4 text-white text-center borde bg-gray-700 shadow-2xl shadow-gry-300'>
+    <div className='font-serif w-[100%] pb-6 md:w-[50%] mx-auto pt-4 text-white text-center shadow-2xl'>
        <div className="heading">            
             
             <h2 className='md:text-4xl text-3xl font-bold py-4'>General Knowledge</h2>
