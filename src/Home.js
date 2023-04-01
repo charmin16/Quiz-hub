@@ -1,12 +1,12 @@
 import {NavLink} from 'react-router-dom'
 
 const Home = () => {
-
+// git push -u origin main
   return (
-    <div className='w-[90%] md:w-[50%] space-y-4 mx-auto pt-12 text-center text-white'>
-      <div className='sub-wrapper'>  
-        <h1 className='text-3xl md:text-4xl font-serif font-bold tracking-wider mb-20'>Welcome to QuizHub</h1>
-        {/* <p id='isolated' className='text-2xl md:text-3xl mb-8'>Please choose any one of the following for your quiz</p> */}
+    <div className='w-[90%] md:w-[50%] mx-auto pt-12 text-center text-white'>
+      <div className='sub-wrapper space-y-6'>  
+        <h1 className='text-2xl md:text-4xl font-serif font-bold'>You Are Welcome to QuizHub</h1>
+        <p id='isolated' className='text-lg mx-w-[40%] md:text-2xl mb-8'>Please choose any one of the following for your quiz</p>
         <div className='paras '>
           <NavLink to='/gen'>
             <p className='text-2xl md:text-3xl font-serif py-4 shadow-2xl max-w-[70%] md:max-w-[50%] mx-auto pl-4 '>General Knowledge</p>
