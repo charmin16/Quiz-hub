@@ -102,7 +102,7 @@ const Europe = () => {
             <h2 className='md:text-4xl text-3xl font-bold py-4'>Europe</h2>
             {!show && (
                 <div className='instruction text-xl max-w-[80%] mx-auto'>
-                    <p>You have one 30 seconds for this quiz. Goodluck😊😉</p>                   
+                    <p>You have thirty seconds for this quiz. Goodluck😊😉</p>                   
                     <p>Click the button below to start</p>
                 </div>
             )}
